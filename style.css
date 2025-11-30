@@ -26,6 +26,11 @@ one;
  color: black;
 }
 
+.dropdown{
+position: relative;
+display: inline-block;
+}
+
 .zoomimage {
  transition: 0.5s;      
 }
